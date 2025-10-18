@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>ZakariaAitAli.Logging</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Zakaria Ait Ali</Authors>
+    <Company>Lotel Partners</Company>
+    <Description>A simple logging helper library for .NET applications.</Description>
+    <PackageProjectUrl>https://github.com/ZakariaAitAli/logging</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ZakariaAitAli/logging.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>
