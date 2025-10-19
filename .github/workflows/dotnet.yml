@@ -55,4 +55,4 @@ jobs:
           --name github \
           "https://nuget.pkg.github.com/${{ github.repository_owner }}/index.json"
 
-        dotnet nuget push ./artifacts/*.nupkg --source github
+        dotnet nuget push ./artifacts/*.nupkg --source github --skip-duplicate
